@@ -1,5 +1,7 @@
 # Git and GitHub in R/RStudio
 
+Does this allow me to push?
+
 This short workshop (and repo) provide information on the following things:
 
 * An introduction to Git and GitHub
